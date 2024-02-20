@@ -21,7 +21,7 @@ npm install
 
 ## Concepts Covered
 
-1. [Connecting to Prisma](src\app\concepts\connect-to-prisma\README.md)
+1. [Connecting to Prisma](src/app/concepts/connect-to-prisma/README.md)
 
 ## Contributing
 
